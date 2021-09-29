@@ -19,7 +19,7 @@ Hey, I am pursuing Computer Science and Engineering from 🚀[Rashtriya Raksha U
 [2.1]: https://i.imgur.com/ooBsFft.png?1 (telegram icon with padding)
 [3.1]: https://i.imgur.com/ir61YD3.png?1 (Linkedin icon with padding)
 [4.1]: https://i.imgur.com/UUdA2GF.png?1 (Leetcode icon with padding)
-[5.1]: https://i.ibb.co/KKtnt0g/codeforces.png (codeforces icon with padding)
+[5.1]: https://i.ibb.co/syFNSHK/codeforces.png (codeforces icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- links to your social media accounts -->
