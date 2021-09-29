@@ -1,11 +1,7 @@
-### Hi there 👋
-
 ### A Warm Welcome by [Rahul Karad](https://karad1818.github.io/portfolio/)👋
-<!-- ![](https://komarev.com/ghpvc/?username=keshakaneria&color=green) -->
 
 Hey, I am pursuing Computer Science and Engineering from 🚀[Rashtriya Raksha University](https://rru.ac.in), Gandhinagar, Gujarat. I'm a Competitive programmer as well as Web🕸 developer working with Python and Database connectivities; along with HTML, CSS, Bootstrap for frontend portion. I'm currently developing my interest towards Machine learning and also Reinforcement Learning☠.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
@@ -31,11 +27,7 @@ Hey, I am pursuing Computer Science and Engineering from 🚀[Rashtriya Raksha U
 [5]: https://codeforces.com/profile/Karad_1818
 [6]: http://www.github.com/karad1818
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!--
-**keshakaneria/keshakaneria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a>
 *******
 - 💬 Ask me anything!
@@ -50,20 +42,4 @@ rahulkarad18182112@gmail.com, will try my best to reply within 24 hrs🏁!
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=karad1818&show_icons=true&hide_border=true&icon_color=5CFF33">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karad1818&hide_border=true&hide=javascript,html">
 </div>
-<!-- **Views:**<br>
-![Visitor Count](https://profile-counter.glitch.me/keshakaneria/count.svg) -->
 
-<!--
-**karad1818/karad1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
