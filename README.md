@@ -28,7 +28,7 @@ Hey, I am pursuing Computer Science and Engineering from 🚀[Rashtriya Raksha U
 [6]: http://www.github.com/karad1818
 
 
-<a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a>
+<!-- <a href="https://imgur.com/ilzOXDw"><img align="right" src="https://i.imgur.com/ilzOXDw.gif" title="source: imgur.com" /></a> -->
 *******
 - 💬 Ask me anything!
      Always ready to help!🤩
