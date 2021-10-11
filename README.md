@@ -1,5 +1,7 @@
 ### A Warm Welcome by [Rahul Karad](https://karad1818.github.io/portfolio/)👋
 ![](https://komarev.com/ghpvc/?username=karad1818&color=green)
+
+
 Hey, I am pursuing Computer Science and Engineering from 🚀[Rashtriya Raksha University](https://rru.ac.in), Gandhinagar, Gujarat. I'm a Competitive programmer as well as Web🕸 developer working with Python and Database connectivities; along with HTML, CSS, Bootstrap for frontend portion. I'm currently developing my interest towards Machine learning and also Reinforcement Learning☠.
 
 
